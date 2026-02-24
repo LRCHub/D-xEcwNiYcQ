@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "メルト (かぐや ver.) [CPK! Remix]",
-  "base_artist": "ryo (supercell)、かぐや(cv.夏吉ゆうこ)",
-  "createdAt": "2026-02-11T12:58:57.439986Z",
+  "base_track": "メルト (やなぎなぎ ver.) [CPK! Remix]",
+  "base_artist": "ryo (supercell)、やなぎなぎ",
+  "createdAt": "2026-02-24T14:54:18.638720Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "メルト (かぐや ver.) [CPK! Remix]",
-      "artist": "ryo (supercell); かぐや(cv.夏吉ゆうこ)",
-      "has_synced": true,
-      "path": "select/01_メルト_(かぐや_ver.)_[CPK!_Remix]_ryo_(supercell);_かぐや(cv.夏吉ゆうこ).lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "メルト (かぐや ver.) [CPK! Remix]",
-      "artist": "ryo (supercell) & かぐや(cv.夏吉ゆうこ)",
+      "title": "メルト (やなぎなぎ ver.) [CPK! Remix]",
+      "artist": "ryo (supercell) & やなぎなぎ",
       "has_synced": false,
-      "path": "select/pl_01_メルト_(かぐや_ver.)_[CPK!_Remix]_ryo_(supercell)_&_かぐや(cv.夏吉ゆうこ).txt"
+      "path": "select/pl_01_メルト_(やなぎなぎ_ver.)_[CPK!_Remix]_ryo_(supercell)_&_やなぎなぎ.txt"
     }
   ]
 }
